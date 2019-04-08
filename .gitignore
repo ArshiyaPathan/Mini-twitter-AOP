@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/vcs.xml
+src/test/java/edu/sjsu/cmpe275/aop/.gitignore
+target/generated-sources/
+target/generated-test-sources/
